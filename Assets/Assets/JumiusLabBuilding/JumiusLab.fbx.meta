@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: d91fe3dae20b14c4aa3658e18c7d0e42
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: fdae5b3807eb05a439fb3bb51c5ad3b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 50d9384d63947884d86f88096ab5b39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 2ad63a466656f5845bc7eb42410b18d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 62721eca06795854aa070ea3d5979be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: a3ffbfacf8c1bd548a4c3884f64df2d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 4f656c9b050ea704292fdee82aa2d43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown
+    second: {fileID: 2100000, guid: 3575f561f921af548a724c06b3b27429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown002
+    second: {fileID: 2100000, guid: ac25ee7c785d8bb44848405c4131ba51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown003
+    second: {fileID: 2100000, guid: 5a9a0be5ec095054c9656e70d9e3534c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream
+    second: {fileID: 2100000, guid: fb5c0d7fb348bc94fa4e9a8f152fb20f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cushion_black
+    second: {fileID: 2100000, guid: d77621201216bf943be1e514739ac09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_red
+    second: {fileID: 2100000, guid: f9a6f85f4a4f9b44e897631087d3aa2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glay2
+    second: {fileID: 2100000, guid: 3a2f62f06e00e0e44900e7f94db0ef40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glay3
+    second: {fileID: 2100000, guid: eb981893181ad1144a4b9376cf0e9a8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 5a0a430057266ae4d960cf3488a36771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iPad
+    second: {fileID: 2100000, guid: 8d9916652f80d6c4ca8c3710878667c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l_black
+    second: {fileID: 2100000, guid: a6d6b698985467b45b3ec5b681334195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens
+    second: {fileID: 2100000, guid: 71336cf72cfb98b40a7952439808e160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens2
+    second: {fileID: 2100000, guid: bc47d19d920cbc246b270568b07f0a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_glay
+    second: {fileID: 2100000, guid: 8a1ffbd43a50ddf4088f5302f96ae928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_gray002
+    second: {fileID: 2100000, guid: 8dfffb478b5ac0d408c4d41bbb200fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_silver
+    second: {fileID: 2100000, guid: 663ad01be2059fd48831f4b0bb5ad4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: b410e75b23054864a9960fdcf8e68775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_glay
+    second: {fileID: 2100000, guid: 70dc16c116260ec418b5e786e2f0bb9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_lightblue
+    second: {fileID: 2100000, guid: 288a2efe6758fe142a812d4a5324d070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_red
+    second: {fileID: 2100000, guid: 72da946d038aeb546bb364248a2e3af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_silver
+    second: {fileID: 2100000, guid: 651d6672b31d7d84e83ef0df2d628421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_silver002
+    second: {fileID: 2100000, guid: 59ebf13c869ef154b9deda207dc78472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_white
+    second: {fileID: 2100000, guid: eb5e7a6d09727984f8095617654f9af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_white.001
+    second: {fileID: 2100000, guid: cfce570f142853145ac2b0038fd2bdb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 78d1a3ddc0247124faebb2cf425e7d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 88d9efcc9e42a7b4588029f37bd3c1ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow
+    second: {fileID: 2100000, guid: 3ba33ff7b0295cd49ba982311ad5947b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: b4f46efd882599d4cbb98132e06a6397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.001"
+    second: {fileID: 2100000, guid: be2a8b4f401c64c4fa83324f26110d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.004"
+    second: {fileID: 2100000, guid: e98dc6d49dffc5b4bbea34952d4b86b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.010"
+    second: {fileID: 2100000, guid: 8d3020db70e916c448a1359ec682f21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.012"
+    second: {fileID: 2100000, guid: 7949db332865449498c49c831e4a6551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB.013"
+    second: {fileID: 2100000, guid: 1c3aaaf3d2639d4428c7cf11a599d0c3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - "#BAKERY{\"meshName\":[\"\u30D9\u30B8\u30A8\u30AB\u30FC\u30D6\",\"\u7ACB\u65B9\u4F53.214\",\"_Room_Window_Glass\",\"\u7ACB\u65B9\u4F53.233\",\"\u7ACB\u65B9\u4F53.282\",\"keyBoard.001\",\"\u7ACB\u65B9\u4F53.195\",\"deskSmall.002\",\"\u7ACB\u65B9\u4F53.229\",\"\u7ACB\u65B9\u4F53.253\",\"Left.001\",\"\u5186\u67F1.021\",\"\u7ACB\u65B9\u4F53.232\",\"_Room_Wall_Inner\",\"\u7ACB\u65B9\u4F53.283\",\"\u7ACB\u65B9\u4F53.175\",\"\u7ACB\u65B9\u4F53.243\",\"\u5186\u67F1.020\",\"\u7ACB\u65B9\u4F53.280\",\"\u7ACB\u65B9\u4F53.274\",\"\u7ACB\u65B9\u4F53.256\",\"mouse.004\",\"button_R2.001\",\"button_L2.001\",\"\u5186\u67F1.024\",\"\u5186\u67F1.022\",\"\u7ACB\u65B9\u4F53.257\",\"\u7ACB\u65B9\u4F53.285\",\"\u5186\u67F1.006\",\"desktopPC.002\",\"\u7ACB\u65B9\u4F53.271\",\"\u7ACB\u65B9\u4F53.174\",\"_Room_Floor\",\"book1.002\",\"\u7ACB\u65B9\u4F53.150\",\"button_R.001\",\"\u7ACB\u65B9\u4F53.168\",\"RLbutton.001\",\"display.002\",\"\u7ACB\u65B9\u4F53.227\",\"book1.004\",\"\u7ACB\u65B9\u4F53.147\",\"\u5186\u67F1.032\",\"\u7ACB\u65B9\u4F53.072\",\"rack2_3\",\"mouse.003\",\"\u7ACB\u65B9\u4F53.191\",\"button_L4.001\",\"\u5186\u67F1.028\",\"book1.001\",\"\u7ACB\u65B9\u4F53.269\",\"book1.017\",\"door\",\"rack2_1\",\"deskSmall.003\",\"\u7ACB\u65B9\u4F53.143\",\"desk.002\",\"book1.013\",\"book1.020\",\"\u7ACB\u65B9\u4F53.035\",\"\u7ACB\u65B9\u4F53.289\",\"\u7ACB\u65B9\u4F53.198\",\"rack3_1\",\"\u7ACB\u65B9\u4F53.212\",\"_DeskSet.001\",\"\u7ACB\u65B9\u4F53.226\",\"chair.017\",\"\u7ACB\u65B9\u4F53.255\",\"\u7ACB\u65B9\u4F53.268\",\"\u7ACB\u65B9\u4F53.187\",\"Sofa\",\"\u7ACB\u65B9\u4F53.236\",\"\u7ACB\u65B9\u4F53.166\",\"\u7ACB\u65B9\u4F53.160\",\"\u7ACB\u65B9\u4F53.281\",\"\u7ACB\u65B9\u4F53.165\",\"deskSmall.005\",\"monitor.002\",\"stick2_R.001\",\"\u5186\u67F1.027\",\"\u7ACB\u65B9\u4F53.211\",\"\u7ACB\u65B9\u4F53.228\",\"\u7ACB\u65B9\u4F53.230\",\"monitor.008\",\"pencil.004\",\"monitor.001\",\"chair.018\",\"\u7ACB\u65B9\u4F53.286\",\"\u7ACB\u65B9\u4F53.213\",\"stick_L.001\",\"\u7ACB\u65B9\u4F53.259\",\"book1.018\",\"book1.014\",\"chair.003\",\"\u7ACB\u65B9\u4F53.235\",\"\u7ACB\u65B9\u4F53.209\",\"\u7ACB\u65B9\u4F53.185\",\"book1.007\",\"keyBoard.004\",\"\u7ACB\u65B9\u4F53.205\",\"\u7ACB\u65B9\u4F53.131\",\"desktopPC.004\",\"\u5186\u67F1.031\",\"\u7ACB\u65B9\u4F53.223\",\"\u7ACB\u65B9\u4F53.250\",\"minus.001\",\"Cup\",\"\u7ACB\u65B9\u4F53.287\",\"\u5186\u67F1.015\",\"\u7ACB\u65B9\u4F53.222\",\"\u5186\u67F1.017\",\"\u7ACB\u65B9\u4F53.258\",\"\u7ACB\u65B9\u4F53.200\",\"_Room_Ceiling\",\"rack.001\",\"fridge\",\"\u7ACB\u65B9\u4F53.208\",\"\u7ACB\u65B9\u4F53.182\",\"\u7ACB\u65B9\u4F53.159\",\"\u7ACB\u65B9\u4F53.267\",\"\u7ACB\u65B9\u4F53.291\",\"\u5186\u67F1.019\",\"pencase\",\"plus.001\",\"\u5186\u67F1.026\",\"deskSmall.006\",\"\u5186\u67F1.025\",\"\u7ACB\u65B9\u4F53.218\",\"\u7ACB\u65B9\u4F53.284\",\"\u7ACB\u65B9\u4F53.249\",\"book1.006\",\"\u7ACB\u65B9\u4F53.145\",\"\u7ACB\u65B9\u4F53.217\",\"\u7ACB\u65B9\u4F53.248\",\"book1.019\",\"\u7ACB\u65B9\u4F53.240\",\"\u7ACB\u65B9\u4F53.272\",\"\u7ACB\u65B9\u4F53.275\",\"\u7ACB\u65B9\u4F53.154\",\"\u7ACB\u65B9\u4F53.242\",\"\u7ACB\u65B9\u4F53.194\",\"\u5186\u67F1.018\",\"monitor.003\",\"\u7ACB\u65B9\u4F53.161\",\"desktopPC.003\",\"\u7ACB\u65B9\u4F53.203\",\"\u5186\u67F1.012\",\"keyBoard.003\",\"_DeskSet\",\"\u5186\u67F1.030\",\"chair.004\",\"\u7ACB\u65B9\u4F53.266\",\"\u7ACB\u65B9\u4F53.141\",\"\u7ACB\u65B9\u4F53.199\",\"switchPort\",\"\u7ACB\u65B9\u4F53.219\",\"monitor.007\",\"monitor.004\",\"\u7ACB\u65B9\u4F53.144\",\"\u7ACB\u65B9\u4F53.238\",\"\u5186\u67F1.016\",\"\u5186\u67F1.005\",\"\u5186\u67F1.014\",\"Right.001\",\"rack\",\"\u7ACB\u65B9\u4F53.158\",\"monitor.005\",\"\u7ACB\u65B9\u4F53.164\",\"\u7ACB\u65B9\u4F53.244\",\"\u7ACB\u65B9\u4F53.153\",\"\u5186\u67F1.013\",\"\u7ACB\u65B9\u4F53.146\",\"\u7ACB\u65B9\u4F53.265\",\"\u7ACB\u65B9\u4F53.270\",\"chair.014\",\"chair.001\",\"\u7ACB\u65B9\u4F53.184\",\"chair.019\",\"\u7ACB\u65B9\u4F53.180\",\"book1.016\",\"\u7ACB\u65B9\u4F53.224\",\"\u7ACB\u65B9\u4F53.181\",\"button_L3.001\",\"\u7ACB\u65B9\u4F53.251\",\"\u5186\u67F1.009\",\"\u7ACB\u65B9\u4F53.254\",\"\u5186\u67F1.029\",\"stick2_L.001\",\"\u7ACB\u65B9\u4F53.247\",\"\u7ACB\u65B9\u4F53.221\",\"\u7ACB\u65B9\u4F53.263\",\"book1.005\",\"mouse.001\",\"rack2_2\",\"\u7ACB\u65B9\u4F53.264\",\"\u7ACB\u65B9\u4F53.234\",\"\u7ACB\u65B9\u4F53.179\",\"book1.010\",\"\u7ACB\u65B9\u4F53.192\",\"ipad\",\"\u7ACB\u65B9\u4F53.246\",\"\u7ACB\u65B9\u4F53.204\",\"\u5186\u67F1.011\",\"\u7ACB\u65B9\u4F53.163\",\"\u7ACB\u65B9\u4F53.178\",\"\u7ACB\u65B9\u4F53.210\",\"\u7ACB\u65B9\u4F53.201\",\"\u7ACB\u65B9\u4F53.231\",\"\u7ACB\u65B9\u4F53.186\",\"book1.003\",\"\u7ACB\u65B9\u4F53.220\",\"\u7ACB\u65B9\u4F53.293\",\"\u5186\u67F1.010\",\"book1.015\",\"keyBoard.002\",\"\u7ACB\u65B9\u4F53.207\",\"\u7ACB\u65B9\u4F53.157\",\"\u7ACB\u65B9\u4F53.225\",\"button_R4.001\",\"\u7ACB\u65B9\u4F53.239\",\"button_R3.001\",\"\u7ACB\u65B9\u4F53.241\",\"\u30D9\u30B8\u30A8\u30AB\u30FC\u30D6.001\",\"\u5186\u67F1.008\",\"\u7ACB\u65B9\u4F53.155\",\"pencil.002\",\"monitor.009\",\"\u7ACB\u65B9\u4F53.196\",\"\u5186\u67F1\",\"deskSmall.004\",\"\u7ACB\u65B9\u4F53.277\",\"chair.016\",\"\u7ACB\u65B9\u4F53.261\",\"\u7ACB\u65B9\u4F53.245\",\"book1.012\",\"Trashbox\",\"monitor.006\",\"\u7ACB\u65B9\u4F53.262\",\"_Room_Wall_Outer\",\"pencil.001\",\"button_L1.001\",\"deskSmall.001\",\"button_L.001\",\"\u7ACB\u65B9\u4F53.173\",\"mouse.002\",\"\u7ACB\u65B9\u4F53.183\",\"book1.008\",\"\u7ACB\u65B9\u4F53.197\",\"\u7ACB\u65B9\u4F53.193\",\"\u7ACB\u65B9\u4F53.276\",\"desk.001\",\"desktopPC.001\",\"\u7ACB\u65B9\u4F53.278\",\"\u7ACB\u65B9\u4F53.216\",\"\u7ACB\u65B9\u4F53.142\",\"\u7ACB\u65B9\u4F53.252\",\"\u7ACB\u65B9\u4F53.279\",\"\u7ACB\u65B9\u4F53.162\",\"\u7ACB\u65B9\u4F53.202\",\"\u7ACB\u65B9\u4F53.149\",\"\u7ACB\u65B9\u4F53.156\",\"\u7ACB\u65B9\u4F53.273\",\"\u7ACB\u65B9\u4F53.148\",\"\u7ACB\u65B9\u4F53.177\",\"\u7ACB\u65B9\u4F53.190\",\"pencil.003\",\"\u7ACB\u65B9\u4F53.140\",\"stick_R.001\",\"\u7ACB\u65B9\u4F53.152\",\"book1.009\",\"\u7ACB\u65B9\u4F53.260\",\"\u5186\u67F1.023\",\"\u7ACB\u65B9\u4F53.288\",\"\u7ACB\u65B9\u4F53.130\",\"book1.011\",\"button_R1.001\",\"chair.002\",\"\u7ACB\u65B9\u4F53.206\",\"\u7ACB\u65B9\u4F53.237\",\"\u7ACB\u65B9\u4F53.215\",\"\u5186\u67F1.007\",\"\u7ACB\u65B9\u4F53.151\"],\"padding\":[66,256,12,256,256,86,201,44,256,256,256,256,256,5,86,256,256,256,98,226,256,256,256,256,256,256,256,256,256,64,225,256,6,175,110,256,201,256,256,256,176,256,256,181,31,256,256,256,256,150,212,176,21,46,44,87,25,214,182,256,256,256,21,256,25,256,55,256,212,18,17,256,256,256,256,256,44,63,256,256,256,256,256,63,256,63,55,153,256,256,86,182,216,55,256,94,102,153,86,256,256,64,256,256,256,256,250,100,256,256,256,256,256,6,13,33,256,241,256,72,58,256,143,256,256,52,256,256,256,256,169,99,201,256,191,256,225,226,256,256,256,256,63,100,64,256,256,86,25,256,55,173,197,256,167,256,63,63,256,201,256,256,256,256,9,256,63,93,256,256,256,256,173,75,55,55,241,55,241,172,201,102,256,256,256,256,256,256,256,256,124,150,256,24,58,256,102,130,256,132,256,256,256,256,86,201,256,201,241,175,256,53,256,191,86,256,86,256,256,256,256,256,256,256,256,256,63,256,219,44,256,55,256,201,214,41,63,184,4,256,256,44,256,256,256,102,143,256,256,113,25,64,256,256,197,201,121,256,201,105,256,60,256,256,256,256,50,256,77,146,256,256,256,101,168,256,55,256,256,256,256,122],\"unwrapper\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}"
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
