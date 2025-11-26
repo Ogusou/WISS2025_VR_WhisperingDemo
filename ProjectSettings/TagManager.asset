@@ -28,7 +28,7 @@ TagManager:
   - HardwareObjects
   - reserved4
   - reserved3
-  - 
+  - SL
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PlayerLocal
+    uniqueID: 4114639693
+    locked: 0
+  - name: SL
+    uniqueID: 756625011
     locked: 0
